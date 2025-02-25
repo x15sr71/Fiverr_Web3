@@ -1,7 +1,7 @@
 
-# Fiver Web3
+# Fiverr Web3
 
-Fiver Web3 is an innovative marketplace platform inspired by Fiver, enhanced with the power of blockchain technology. Our goal is to create a transparent, secure, and decentralized environment for freelancers and clients to connect, transact, and build trust.
+Fiverr Web3 is an innovative marketplace platform inspired by Fiverr, enhanced with the power of blockchain technology. Our goal is to create a transparent, secure, and decentralized environment for freelancers and clients to connect, transact, and build trust.
 
 
 ## Features ✨
@@ -19,6 +19,6 @@ User Profiles & Ratings:
 - Database: TBD
 ## Status 📝
 Under Development:
-Fiver Web3 is actively being developed. We are working hard to bring you a cutting-edge decentralized marketplace. Expect more updates, features, and comprehensive documentation to be pushed to this repository soon.
+Fiverr Web3 is actively being developed. We are working hard to bring you a cutting-edge decentralized marketplace. Expect more updates, features, and comprehensive documentation to be pushed to this repository soon.
 ## Getting Started  🚀
-Stay tuned for detailed installation instructions and API documentation. In the meantime, follow this repository for the latest progress on Fiver Web3.
+Stay tuned for detailed installation instructions and API documentation. In the meantime, follow this repository for the latest progress on Fiverr Web3.
